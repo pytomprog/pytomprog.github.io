@@ -1,0 +1,24 @@
+Objectifs:
+
+- Pouvoir mettre à jour mon portfolio facilement
+- Pouvoir ajouter n'importe quel type de contenu à mon portfolio
+
+- Avoir un portfolio un minimum esthétique
+- Mon portfolio doit être facilement accessible par n'importe qui
+- Avoir un portfolio intéractif
+
+- Montrer mes projets antérieurs (personnels, à l'école et professionnels)
+- Montrer mes savoir-faire et compétences, mes expériences, mes objectifs, aspirations dans le futur et la manière de les atteindre
+- Prouver mes compétences (certificats, récompences, ...)
+- Montrer mon évolution au cours du temps
+
+- Apprendre des choses en créant mon portfolio
+=============================================================================================================================================
+Mon choix:
+
+- Créer mon portfolio sous forme de site web pour apprendre à créer un site web
+=============================================================================================================================================
+Raisons de ce choix:
+
+- Correspond à beaucoup de critère, sauf peut-être celui de pouvoir mettre à jour facilement mon portfolio
+    -> donc pour résoudre ceci, je vais essayer de (A COMPLETER)
