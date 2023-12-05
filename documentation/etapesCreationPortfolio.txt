@@ -1,0 +1,3 @@
+Voici les pricipales étapes de la création de mon portfolio:
+
+1. Apprendre à programmer un site web côté frontend

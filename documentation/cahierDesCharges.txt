@@ -21,4 +21,4 @@ Mon choix:
 Raisons de ce choix:
 
 - Correspond à beaucoup de critère, sauf peut-être celui de pouvoir mettre à jour facilement mon portfolio
-    -> donc pour résoudre ceci, je vais essayer de (A COMPLETER)
+    -> donc pour résoudre ceci, je vais essayer d'y travailler une fois le principal de mon portfolio fait
